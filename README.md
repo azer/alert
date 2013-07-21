@@ -1,6 +1,6 @@
 ## alert
 
-Play Sound Alerts
+JavaScript library to play sound alerts 
 
 ```js
 alert = require('alert')
