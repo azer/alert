@@ -1,0 +1,4 @@
+fox = bin 'fox'
+
+task 'test', '*.js', ->
+  fox '-b'

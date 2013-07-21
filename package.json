@@ -1,0 +1,29 @@
+{
+  "name": "alert",
+  "version": "0.0.0",
+  "description": "Play Sound Alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "sound",
+    "html5",
+    "audio",
+    "player",
+    "play",
+    "alert"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/alert.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "play-audio": "0.0.0"
+  }
+}
