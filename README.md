@@ -12,7 +12,7 @@ alert.volume(0.5)
 
 See `content.js` for all available sounds.
 
-Try it at [requirebin]()
+Try it at [requirebin](http://requirebin.com/?gist=6050220)
 
 ## Install
 
