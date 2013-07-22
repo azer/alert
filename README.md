@@ -35,7 +35,7 @@ $ npm install alert
 ### Adding Custom Sounds
 
 ```js
-alert.content['foo'] = 'http://bar.com/foo.mp3'
+alert.content['foo'] = ['http://bar.com/foo.mp3', 'http://bar.com/foo.ogg']
 alert('foo')
 ```
 
