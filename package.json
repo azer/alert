@@ -24,6 +24,6 @@
   "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD",
   "dependencies": {
-    "play-audio": "0.0.0"
+    "play-audio": "*"
   }
 }
