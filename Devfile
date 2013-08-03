@@ -1,4 +1,8 @@
 fox = bin 'fox'
+bundle = bin 'one/onejs'
+
+task 'dist', '*.js', ->
+  bundle 'global.js -o dist/alert.js'
 
 task 'test', '*.js', ->
   fox '-b'
