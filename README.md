@@ -68,5 +68,3 @@ alert.player.on('ended', function(){})
 ```
 
 More info is at [azer/play-audio](http://github.com/azer/play-audio)
-
-![](https://dsz91cxz97a03.cloudfront.net/pI9fj5nbY8-1200x1200.jpeg)
