@@ -3,7 +3,7 @@
 JavaScript library to play sound alerts 
 
 ```js
-alert = require('alert')
+alert = require('azer/alert')
 
 alert() // Plays default alert "bottle"
 alert('purr')
@@ -19,7 +19,7 @@ Try it at
 ## Install
 
 ```bash
-$ npm install alert
+$ npm install azer/alert
 ```
 
 ## Manual
