@@ -3,7 +3,7 @@
 JavaScript library to play sound alerts 
 
 ```js
-alert = require('azer/alert')
+alert = require('alert')
 
 alert() // Plays default alert "bottle"
 alert('purr')
